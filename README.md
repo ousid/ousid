@@ -18,19 +18,19 @@
 
 ### Languages and Tools:
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px; background: #007ACC" alt="HTML Guide" title="HTML5"  src="./tools/visualstudiocode.svg" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="./tools/visualstudiocode.svg" width="40px" height="50px" >](https://code.visualstudio.com/)
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px; background: #E34F26" alt="HTML Guide" title="HTML5"  src="./tools/html5.svg" width="40px" height="50px" >](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="./tools/html5.svg" width="40px" height="50px" >](https://developer.mozilla.org/en-US/docs/Web/HTML/)
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px; background: #1572B6" alt="CSS Guide" title="CSS3"  src="./tools/css3.svg" width="40px" height="50px" >](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="CSS Guide" title="CSS3"  src="./tools/css3.svg" width="40px" height="50px" >](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px; background: #F7DF1E" alt="Javascript Guide" title="Javascript"  src="./tools/javascript.svg" width="40px" height="50px" >](https://developer.mozilla.org/en-US/docs/Web/javascript/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="Javascript Guide" title="Javascript"  src="./tools/javascript.svg" width="40px" height="50px" >](https://developer.mozilla.org/en-US/docs/Web/javascript/)
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px; background: #4FC08D" alt="VueJs website" title="VueJs"  src="./tools/vue-dot-js.svg" width="40px" height="50px" >](https://vuejs.org/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="VueJs website" title="VueJs"  src="./tools/vue-dot-js.svg" width="40px" height="50px" >](https://vuejs.org/)
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px; background: #38B2AC" alt="Tailwindcss website" title="Tailwindcss"  src="./tools/tailwindcss.svg" width="40px" height="50px" >](https://tailwindcss.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="Tailwindcss website" title="Tailwindcss"  src="./tools/tailwindcss.svg" width="40px" height="50px" >](https://tailwindcss.com/)
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px; background: #FF2D20" alt="laravel website" title="laravel"  src="./tools/laravel.svg" width="40px" height="50px" >](https://laravel.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="laravel website" title="laravel"  src="./tools/laravel.svg" width="40px" height="50px" >](https://laravel.com/)
 
 
 <br />
@@ -45,4 +45,17 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ousid&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ousid&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
