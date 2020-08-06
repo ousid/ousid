@@ -41,6 +41,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate guide  to learn web development from scratch](https://coderflex.com/blog/the-ultimate-guide-to-learn-web-development-from-scratch)
+- [HELLO &amp; WELCOME TO MY FIRST BLOG POST](https://coderflex.com/blog/hello-and-welcome-to-my-first-blog-post)
+- [All you need to know about Single page application](https://coderflex.com/blog/all-you-need-to-know-about-single-page-application)
+- [تحميل مجاني لأزيد من 75 دراسة جدوى في معظم القطاعات](https://coderflex.com/blog/thmyl-mjany-lazyd-mn-75-drash-jdwa-fy-mazm-alqtaaat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
