@@ -3,7 +3,7 @@
 ## I'm a full stack web developer, telecommunications engineer and CyberSecurity enthusiast
 
 - 💻 I’m currently learning Laravel advanced stuff.
-- 👱 I’m looking to collaborate with other content creators
+- 👱 I'm Looking for new projects to be done.
 - 🚀 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
