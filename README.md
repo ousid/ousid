@@ -5,21 +5,13 @@
 - 💻 I’m currently learning Laravel advanced stuff.
 - 👱 I'm Looking for new projects to be done.
 - 👱 I’m looking to collaborate with other content creators
->>>>>>> bd1ac1ed3a125f146b45ac5c2eee03d910dc1d4e
 - 🚀 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-
-<<<<<<< HEAD
 [<img  align="left" style="margin-left: 5px; display: inline-block; background: #1DA1F2; padding: 4px" alt="HTML Guide" title="Twitter profile"  src="./social/twitter.svg" width="30px" height="30px" >](https://twitter.com/sky_0xs)
 
 [<img  align="left" style="margin-left: 5px; display: inline-block; background: #0077B5; padding: 4px" alt="HTML Guide" title="Linkedin Profile"  src="./social/linkedin.svg" width="30px" height="30px" >](https://www.linkedin.com/in/sid-oussama-930461137/)
-=======
-[<img  align="left" style="margin-left: 5px; display: inline-block; background: #1DA1F2; padding: 4px" alt="HTML Guide" title="Twitter profile"  src="https://raw.githubusercontent.com/ousid/ousid/da2f5e66bafd2746251cdc92e7451f8d140742e4/social/twitter.svg" width="30px" height="30px" >](https://twitter.com/sky_0xs)
-
-[<img  align="left" style="margin-left: 5px; display: inline-block; background: #0077B5; padding: 4px" alt="HTML Guide" title="Linkedin Profile"  src="https://raw.githubusercontent.com/ousid/ousid/da2f5e66bafd2746251cdc92e7451f8d140742e4/social/linkedin.svg" width="30px" height="30px" >](https://www.linkedin.com/in/sid-oussama-930461137/)
->>>>>>> bd1ac1ed3a125f146b45ac5c2eee03d910dc1d4e
 
 <br />
 <br />
