@@ -4,14 +4,22 @@
 
 - 💻 I’m currently learning Laravel advanced stuff.
 - 👱 I'm Looking for new projects to be done.
+- 👱 I’m looking to collaborate with other content creators
+>>>>>>> bd1ac1ed3a125f146b45ac5c2eee03d910dc1d4e
 - 🚀 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
 
+<<<<<<< HEAD
 [<img  align="left" style="margin-left: 5px; display: inline-block; background: #1DA1F2; padding: 4px" alt="HTML Guide" title="Twitter profile"  src="./social/twitter.svg" width="30px" height="30px" >](https://twitter.com/sky_0xs)
 
 [<img  align="left" style="margin-left: 5px; display: inline-block; background: #0077B5; padding: 4px" alt="HTML Guide" title="Linkedin Profile"  src="./social/linkedin.svg" width="30px" height="30px" >](https://www.linkedin.com/in/sid-oussama-930461137/)
+=======
+[<img  align="left" style="margin-left: 5px; display: inline-block; background: #1DA1F2; padding: 4px" alt="HTML Guide" title="Twitter profile"  src="https://raw.githubusercontent.com/ousid/ousid/da2f5e66bafd2746251cdc92e7451f8d140742e4/social/twitter.svg" width="30px" height="30px" >](https://twitter.com/sky_0xs)
+
+[<img  align="left" style="margin-left: 5px; display: inline-block; background: #0077B5; padding: 4px" alt="HTML Guide" title="Linkedin Profile"  src="https://raw.githubusercontent.com/ousid/ousid/da2f5e66bafd2746251cdc92e7451f8d140742e4/social/linkedin.svg" width="30px" height="30px" >](https://www.linkedin.com/in/sid-oussama-930461137/)
+>>>>>>> bd1ac1ed3a125f146b45ac5c2eee03d910dc1d4e
 
 <br />
 <br />
@@ -41,6 +49,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate guide  to learn web development from scratch](https://coderflex.com/blog/the-ultimate-guide-to-learn-web-development-from-scratch)
+- [HELLO &amp; WELCOME TO MY FIRST BLOG POST](https://coderflex.com/blog/hello-and-welcome-to-my-first-blog-post)
+- [All you need to know about Single page application](https://coderflex.com/blog/all-you-need-to-know-about-single-page-application)
+- [تحميل مجاني لأزيد من 75 دراسة جدوى في معظم القطاعات](https://coderflex.com/blog/thmyl-mjany-lazyd-mn-75-drash-jdwa-fy-mazm-alqtaaat)
 <!-- BLOG-POST-LIST:END -->
 
 ---

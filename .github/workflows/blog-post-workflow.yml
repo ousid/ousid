@@ -13,4 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+<<<<<<< HEAD
           feed_list: "https://coderflex.com/feeds/articles.rss"
+=======
+          feed_list: "https://coderflex.com/feeds/articles.rss"
+>>>>>>> bd1ac1ed3a125f146b45ac5c2eee03d910dc1d4e
