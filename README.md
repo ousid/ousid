@@ -4,7 +4,6 @@
 
 - 💻 I’m currently learning Laravel advanced stuff.
 - 👱 I'm Looking for new projects to be done.
-- 👱 I’m looking to collaborate with other content creators
 - 🚀 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
