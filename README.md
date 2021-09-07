@@ -1,4 +1,8 @@
-## Hi there, I'm Oussama  👋
+## Hi there  👋
+I'm Oussama, a full stack web developer,working with laravel and the TALL Stack.
+
+Currently, I'm Working on [livewire Tool kit](https://livewiretoolkit.com)
+
 
 ### Connect with me:
 
