@@ -1,8 +1,6 @@
 ## Hi there  👋
 I'm Oussama, a full stack web developer,working with laravel and the TALL Stack.
 
-Currently, I'm Working on [tallkit.dev](https://tallkit.dev)
-
 
 ### Connect with me:
 
