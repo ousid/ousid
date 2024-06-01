@@ -1,5 +1,5 @@
 ## Hi there  👋
-I'm Oussama, a full stack web developer,working with laravel and the TALL Stack.
+I'm Oussama, a software engineer. Mostly working with the Laravel framework
 
 
 ### Connect with me:
