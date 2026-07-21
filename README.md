@@ -24,7 +24,7 @@ Stuff I've shipped under [Coderflex](https://github.com/coderflexx) that teams r
 | [laravel-ticket](https://github.com/coderflexx/laravel-ticket) | a full support ticket system with a clean API |
 | [laravel-csv](https://github.com/coderflexx/laravel-csv) | Livewire-powered CSV imports with a simple API |
 | [laravel-presenter](https://github.com/coderflexx/laravel-presenter) | the presenter pattern, minus the boilerplate |
-| [laravel-sendy](https://github.com/coderflexx) | a clean wrapper around the Sendy API |
+| [laravel-turnstile](https://github.com/coderflexx/laravel-turnstile) | Integrate Cloudflare Turnstile into your Laravel application |
 
 ## the numbers
 
