@@ -1,22 +1,6 @@
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                 │
-│                                     oussama@coderflex                           │
-│                                     -----------------                           │
-│ #####  #   #  #####  #####  ####    OS: Laravel 11 (PHP 8.3)                    │
-│ #   #  #   #  #        #    #   #   Host: Coderflex - Founder                   │
-│ #   #  #   #  #####    #    #   #   Kernel: TALL Stack                          │
-│ #   #  #   #      #    #    #   #   Uptime: 9 yrs (since Aug 2016)              │
-│ #####  #####  #####  #####  ####    Shell: zsh                                  │
-│                                     Editor: VS Code + PHPStorm                  │
-│                                     Languages: PHP, JavaScript, TypeScript, Go  │
-│                                     Building: lean - skill for AI coding agents │
-│                                     Packages: 82 repos, 5 OSS Laravel pkgs      │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+[![oussama's terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=ousid&theme=hacker&headerStyle=mac&hostname=coderflex&commands=whoami,neofetch,languages,top-repos,uptime,exit)](https://github.com/ousid)
 
 </div>
 
@@ -67,8 +51,7 @@ $ ./stats.sh --format=terminal
 ```
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ousid&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="170" alt="Contribution streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" height="170" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=ousid&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&sideNums=00FF00&dates=00CC00" height="170" alt="Contribution streak"/>
 </div>
 
 <br>
@@ -87,11 +70,11 @@ $ cat ~/.contacts
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/website-coderflex.com-00FF41?style=flat-square&logo=googlechrome&logoColor=00FF41&labelColor=0D1117)](https://coderflex.com)
-[![Blog](https://img.shields.io/badge/blog-coderflex.com%2Fblog-00FF41?style=flat-square&logo=rss&logoColor=00FF41&labelColor=0D1117)](https://coderflex.com/blog)
-[![LinkedIn](https://img.shields.io/badge/linkedin-ousid-00FF41?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/ousid)
-[![X](https://img.shields.io/badge/x-sky__0xs-00FF41?style=flat-square&logo=x&logoColor=00FF41&labelColor=0D1117)](https://www.x.com/sky_0xs)
-[![Packagist](https://img.shields.io/badge/packagist-coderflexx-00FF41?style=flat-square&logo=packagist&logoColor=00FF41&labelColor=0D1117)](https://packagist.org/packages/coderflexx/)
+[![Website](https://img.shields.io/badge/website-coderflex.com-00FF00?style=flat-square&logo=googlechrome&logoColor=00FF00&labelColor=000000)](https://coderflex.com)
+[![Blog](https://img.shields.io/badge/blog-coderflex.com%2Fblog-00FF00?style=flat-square&logo=rss&logoColor=00FF00&labelColor=000000)](https://coderflex.com/blog)
+[![LinkedIn](https://img.shields.io/badge/linkedin-ousid-00FF00?style=flat-square&logo=linkedin&logoColor=00FF00&labelColor=000000)](https://www.linkedin.com/in/ousid)
+[![X](https://img.shields.io/badge/x-sky__0xs-00FF00?style=flat-square&logo=x&logoColor=00FF00&labelColor=000000)](https://www.x.com/sky_0xs)
+[![Packagist](https://img.shields.io/badge/packagist-coderflexx-00FF00?style=flat-square&logo=packagist&logoColor=00FF00&labelColor=000000)](https://packagist.org/packages/coderflexx/)
 
 </div>
 
