@@ -1,20 +1,21 @@
 <div align="center">
 
-```ansi
-                                    [1;32moussama[0m[1;37m@[0m[1;32mcoderflex[0m
-                                    [1;30m------------------[0m
-[1;34m#####  #   #  #####  #####  #### [0m   [1;36mOS:[0m Laravel 11 (PHP 8.3)
-[1;34m#   #  #   #  #        #    #   #[0m   [1;36mHost:[0m Coderflex - Founder
-[1;34m#   #  #   #  #####    #    #   #[0m   [1;36mKernel:[0m TALL Stack
-[1;34m#   #  #   #      #    #    #   #[0m   [1;36mUptime:[0m 9 yrs (since Aug 2016)
-[1;34m#####  #####  #####  #####  #### [0m   [1;36mShell:[0m zsh
-                                    [1;36mEditor:[0m VS Code + PHPStorm
-                                    [1;36mLanguages:[0m PHP, JavaScript, TypeScript, Go
-                                    [1;36mBuilding:[0m lean - skill for AI coding agents
-                                    [1;36mPackages:[0m 82 repos, 5 OSS Laravel pkgs
-                                    [40m  [0m[41m  [0m[42m  [0m[43m  [0m[44m  [0m[45m  [0m[46m  [0m[47m  [0m
-                                    [100m  [0m[101m  [0m[102m  [0m[103m  [0m[104m  [0m[105m  [0m[106m  [0m[107m  [0m
-
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│                                     oussama@coderflex                           │
+│                                     -----------------                           │
+│ #####  #   #  #####  #####  ####    OS: Laravel 11 (PHP 8.3)                    │
+│ #   #  #   #  #        #    #   #   Host: Coderflex - Founder                   │
+│ #   #  #   #  #####    #    #   #   Kernel: TALL Stack                          │
+│ #   #  #   #      #    #    #   #   Uptime: 9 yrs (since Aug 2016)              │
+│ #####  #####  #####  #####  ####    Shell: zsh                                  │
+│                                     Editor: VS Code + PHPStorm                  │
+│                                     Languages: PHP, JavaScript, TypeScript, Go  │
+│                                     Building: lean - skill for AI coding agents │
+│                                     Packages: 82 repos, 5 OSS Laravel pkgs      │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
